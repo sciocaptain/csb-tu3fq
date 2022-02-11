@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://sciocaptain.github.io/csb-tu3fq/static/css/main.13a5ee62.chunk.css",
+    "main.js": "https://sciocaptain.github.io/csb-tu3fq/static/js/main.2199c7b2.chunk.js",
+    "main.js.map": "https://sciocaptain.github.io/csb-tu3fq/static/js/main.2199c7b2.chunk.js.map",
+    "runtime-main.js": "https://sciocaptain.github.io/csb-tu3fq/static/js/runtime-main.885d0ffa.js",
+    "runtime-main.js.map": "https://sciocaptain.github.io/csb-tu3fq/static/js/runtime-main.885d0ffa.js.map",
+    "static/js/2.6a318b7b.chunk.js": "https://sciocaptain.github.io/csb-tu3fq/static/js/2.6a318b7b.chunk.js",
+    "static/js/2.6a318b7b.chunk.js.map": "https://sciocaptain.github.io/csb-tu3fq/static/js/2.6a318b7b.chunk.js.map",
+    "static/js/3.caf14454.chunk.js": "https://sciocaptain.github.io/csb-tu3fq/static/js/3.caf14454.chunk.js",
+    "static/js/3.caf14454.chunk.js.map": "https://sciocaptain.github.io/csb-tu3fq/static/js/3.caf14454.chunk.js.map",
+    "index.html": "https://sciocaptain.github.io/csb-tu3fq/index.html",
+    "static/css/main.13a5ee62.chunk.css.map": "https://sciocaptain.github.io/csb-tu3fq/static/css/main.13a5ee62.chunk.css.map",
+    "static/js/2.6a318b7b.chunk.js.LICENSE.txt": "https://sciocaptain.github.io/csb-tu3fq/static/js/2.6a318b7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.885d0ffa.js",
+    "static/js/2.6a318b7b.chunk.js",
+    "static/css/main.13a5ee62.chunk.css",
+    "static/js/main.2199c7b2.chunk.js"
+  ]
+}
